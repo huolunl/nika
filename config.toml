@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = '哈哈哈哈哈'
+theme = 'hugo-theme-stack'
+# theme = 'yinyang'
+
